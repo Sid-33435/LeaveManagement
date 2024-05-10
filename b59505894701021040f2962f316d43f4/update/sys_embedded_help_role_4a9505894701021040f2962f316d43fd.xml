@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1300747_leave_0.admin" name="x_1300747_leave_0.admin">ce9505894701021040f2962f316d43fb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 05:08:27</sys_created_on>
+        <sys_id>4a9505894701021040f2962f316d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ce9505894701021040f2962f316d43fb</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4a9505894701021040f2962f316d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 05:08:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

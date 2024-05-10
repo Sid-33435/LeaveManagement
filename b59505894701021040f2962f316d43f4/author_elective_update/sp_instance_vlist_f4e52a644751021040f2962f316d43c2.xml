@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>short_description</display_field>
+        <field_list/>
+        <filter table="incident">opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>3</maximum_entries>
+        <order>3</order>
+        <order_by>sys_updated_on</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">ece52a644751021040f2962f316d43ba</sp_column>
+        <sp_page display_value="ticket">84af292247132100ba13a5554ee4909e</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 09:07:54</sys_created_on>
+        <sys_id>f4e52a644751021040f2962f316d43c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Incidents</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sp_instance_vlist_f4e52a644751021040f2962f316d43c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 09:07:54</sys_updated_on>
+        <table>incident</table>
+        <title>My Open Incidents</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"displayValue": false,
+		"value": false
+	},
+	"image_field": {
+		"value": null,
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "number,sys_updated_on",
+		"displayValue": "number,sys_updated_on"
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=f4e52a644751021040f2962f316d43c2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management">b59505894701021040f2962f316d43f4</application>
+        <file_path/>
+        <instance_id>4b81e8961b2abddc6a85eb9b2d4bcb2e</instance_id>
+        <instance_name>dev216181</instance_name>
+        <name>sp_instance_vlist_f4e52a644751021040f2962f316d43c2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;short_description&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter table="incident"&gt;opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true^EQ&lt;item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/&gt;&lt;item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;3&lt;/maximum_entries&gt;&lt;order&gt;3&lt;/order&gt;&lt;order_by&gt;sys_updated_on&lt;/order_by&gt;&lt;order_direction&gt;desc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;ece52a644751021040f2962f316d43ba&lt;/sp_column&gt;&lt;sp_page display_value="ticket"&gt;84af292247132100ba13a5554ee4909e&lt;/sp_page&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-29 09:07:54&lt;/sys_created_on&gt;&lt;sys_id&gt;f4e52a644751021040f2962f316d43c2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Open Incidents&lt;/sys_name&gt;&lt;sys_package display_value="Leave Management" source="x_1300747_leave_0"&gt;b59505894701021040f2962f316d43f4&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Leave Management"&gt;b59505894701021040f2962f316d43f4&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_f4e52a644751021040f2962f316d43c2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-29 09:07:54&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;title&gt;My Open Incidents&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"displayValue": false,
+		"value": false
+	},
+	"image_field": {
+		"value": null,
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "number,sys_updated_on",
+		"displayValue": "number,sys_updated_on"
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f4e52a644751021040f2962f316d43c2"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>34066604</payload_hash>
+        <record_name>My Open Incidents</record_name>
+        <reverted_from/>
+        <source>b59505894701021040f2962f316d43f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 09:07:54</sys_created_on>
+        <sys_id>f0e52a644751021040f2962f316d43c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e897732cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 09:07:54</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>38e52a64275102104f884dec8d4404c4</update_guid>
+        <update_guid_history>38e52a64275102104f884dec8d4404c4:34066604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Open Incidents">36f66d5a4711021040f2962f316d43cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:02:26</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>bd3c0c7e55e946ca9972ae41d9292c99</sys_id>
+        <sys_metadata>f4e52a644751021040f2962f316d43c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Incidents</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_scope_delete display_value="">3a657c311238419f817d783a472665a1</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_f4e52a644751021040f2962f316d43c2</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_f4e52a644751021040f2962f316d43c2">f0e52a644751021040f2962f316d43c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:02:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

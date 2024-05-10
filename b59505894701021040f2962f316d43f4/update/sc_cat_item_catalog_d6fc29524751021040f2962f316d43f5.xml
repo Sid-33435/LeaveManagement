@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Leave Request !!">51ace5524751021040f2962f316d43c1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:28:37</sys_created_on>
+        <sys_id>d6fc29524751021040f2962f316d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Leave Request !!</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d6fc29524751021040f2962f316d43f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:28:37</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

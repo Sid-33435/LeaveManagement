@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>true</hidden>
+        <name>Managers</name>
+        <roles>admin,Meownager</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-20 10:31:30</sys_created_on>
+        <sys_id>d392e83547c1021040f2962f316d43ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>managers</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sys_ui_view_d392e83547c1021040f2962f316d43ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-20 10:31:30</sys_updated_on>
+        <title>managers</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management">b59505894701021040f2962f316d43f4</application>
+        <file_path/>
+        <instance_id>4b81e8961b2abddc6a85eb9b2d4bcb2e</instance_id>
+        <instance_name>dev216181</instance_name>
+        <name>sys_ui_view_d392e83547c1021040f2962f316d43ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>true</hidden><name>Managers</name><roles>admin,Meownager</roles><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-20 10:31:30</sys_created_on><sys_id>d392e83547c1021040f2962f316d43ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>managers</sys_name><sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package><sys_policy/><sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope><sys_update_name>sys_ui_view_d392e83547c1021040f2962f316d43ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-20 10:31:30</sys_updated_on><title>managers</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1954088005</payload_hash>
+        <record_name>managers</record_name>
+        <reverted_from/>
+        <source>b59505894701021040f2962f316d43f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-20 10:31:30</sys_created_on>
+        <sys_id>adb2a43547c1021040f2962f316d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e5b6a80390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-20 10:31:30</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>e1b2a43597c10210f359b30ab7da95bf</update_guid>
+        <update_guid_history>e1b2a43597c10210f359b30ab7da95bf:-1954088005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-20 10:32:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>06253f3890d3499e830c9798891d1a24</sys_id>
+        <sys_metadata>d392e83547c1021040f2962f316d43ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>managers</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_scope_delete display_value="">3a657c311238419f817d783a472665a1</sys_scope_delete>
+        <sys_update_name>sys_ui_view_d392e83547c1021040f2962f316d43ed</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_d392e83547c1021040f2962f316d43ed">adb2a43547c1021040f2962f316d43bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-20 10:32:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

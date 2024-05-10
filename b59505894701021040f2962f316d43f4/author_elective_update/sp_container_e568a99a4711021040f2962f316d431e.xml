@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Lm index - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="lm_index">60e52a644751021040f2962f316d4376</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:08:37</sys_created_on>
+        <sys_id>e568a99a4711021040f2962f316d431e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lm index - Container 2</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sp_container_e568a99a4711021040f2962f316d431e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:12:57</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management">b59505894701021040f2962f316d43f4</application>
+        <file_path/>
+        <instance_id>4b81e8961b2abddc6a85eb9b2d4bcb2e</instance_id>
+        <instance_name>dev216181</instance_name>
+        <name>sp_container_e568a99a4711021040f2962f316d431e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Lm index - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="lm_index">60e52a644751021040f2962f316d4376</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-03 15:08:37</sys_created_on><sys_id>e568a99a4711021040f2962f316d431e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Lm index - Container 2</sys_name><sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package><sys_policy/><sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope><sys_update_name>sp_container_e568a99a4711021040f2962f316d431e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-03 15:12:57</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-2002593820</payload_hash>
+        <record_name>Lm index - Container 2</record_name>
+        <reverted_from/>
+        <source>b59505894701021040f2962f316d43f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:12:57</sys_created_on>
+        <sys_id>3869ed1e4711021040f2962f316d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ea48535e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:12:57</sys_updated_on>
+        <type>Container</type>
+        <update_guid>3069ed1ef411021099573bb3ed455d22</update_guid>
+        <update_guid_history>3069ed1ef411021099573bb3ed455d22:-2002593820,a968a99af51102105b4d470db646bc1f:-1968689179</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lm index - Container 2">4a69e91e4711021040f2962f316d432b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:13:01</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>858d7a0b5f7640109c02cf10a11355d9</sys_id>
+        <sys_metadata>e568a99a4711021040f2962f316d431e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lm index - Container 2</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_scope_delete display_value="">3a657c311238419f817d783a472665a1</sys_scope_delete>
+        <sys_update_name>sp_container_e568a99a4711021040f2962f316d431e</sys_update_name>
+        <sys_update_version display_value="sp_container_e568a99a4711021040f2962f316d431e">3869ed1e4711021040f2962f316d4322</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:13:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

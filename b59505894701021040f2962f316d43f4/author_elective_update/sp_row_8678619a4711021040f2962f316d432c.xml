@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="Lm index - Container 1">e568a99a4711021040f2962f316d431e</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:08:56</sys_created_on>
+        <sys_id>8678619a4711021040f2962f316d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sp_row_8678619a4711021040f2962f316d432c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:08:56</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management">b59505894701021040f2962f316d43f4</application>
+        <file_path/>
+        <instance_id>4b81e8961b2abddc6a85eb9b2d4bcb2e</instance_id>
+        <instance_name>dev216181</instance_name>
+        <name>sp_row_8678619a4711021040f2962f316d432c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="Lm index - Container 1">e568a99a4711021040f2962f316d431e</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-03 15:08:56</sys_created_on><sys_id>8678619a4711021040f2962f316d432c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package><sys_policy/><sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope><sys_update_name>sp_row_8678619a4711021040f2962f316d432c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-03 15:08:56</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>796774486</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>b59505894701021040f2962f316d43f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:08:56</sys_created_on>
+        <sys_id>4678619a4711021040f2962f316d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ea4818a460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:08:56</sys_updated_on>
+        <type>Row</type>
+        <update_guid>8a78619a971102105b136630341dcf2d</update_guid>
+        <update_guid_history>8a78619a971102105b136630341dcf2d:796774486</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">dc492d1e4711021040f2962f316d43a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:12:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>33a3f9cb962a4fa4a4df343f7016c290</sys_id>
+        <sys_metadata>8678619a4711021040f2962f316d432c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_scope_delete display_value="">3a657c311238419f817d783a472665a1</sys_scope_delete>
+        <sys_update_name>sp_row_8678619a4711021040f2962f316d432c</sys_update_name>
+        <sys_update_version display_value="sp_row_8678619a4711021040f2962f316d432c">4678619a4711021040f2962f316d432e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:12:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

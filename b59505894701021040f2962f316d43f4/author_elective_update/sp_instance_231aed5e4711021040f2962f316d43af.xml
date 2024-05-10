@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">97d9a15e4711021040f2962f316d437e</sp_column>
+        <sp_widget display_value="CAB Workbench - Header">961100b89f131200b18a7feea57fcf52</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:16:08</sys_created_on>
+        <sys_id>231aed5e4711021040f2962f316d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_update_name>sp_instance_231aed5e4711021040f2962f316d43af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:16:08</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=231aed5e4711021040f2962f316d43af"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management">b59505894701021040f2962f316d43f4</application>
+        <file_path/>
+        <instance_id>4b81e8961b2abddc6a85eb9b2d4bcb2e</instance_id>
+        <instance_name>dev216181</instance_name>
+        <name>sp_instance_231aed5e4711021040f2962f316d43af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">97d9a15e4711021040f2962f316d437e</sp_column><sp_widget display_value="CAB Workbench - Header">961100b89f131200b18a7feea57fcf52</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-03 15:16:08</sys_created_on><sys_id>231aed5e4711021040f2962f316d43af</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package><sys_policy/><sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope><sys_update_name>sp_instance_231aed5e4711021040f2962f316d43af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-03 15:16:08</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=231aed5e4711021040f2962f316d43af"/></record_update>]]></payload>
+        <payload_hash>-119617398</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b59505894701021040f2962f316d43f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:16:08</sys_created_on>
+        <sys_id>e31aed5e4711021040f2962f316d43b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ea48821090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:16:08</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>2b1aed5ea4110210ddb939e7f0c9adb0</update_guid>
+        <update_guid_history>2b1aed5ea4110210ddb939e7f0c9adb0:-119617398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">824ae19e4711021040f2962f316d436e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 15:16:51</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>070464fd1bef4c3e856a062f7a577d84</sys_id>
+        <sys_metadata>231aed5e4711021040f2962f316d43af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave Management" source="x_1300747_leave_0">b59505894701021040f2962f316d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">b59505894701021040f2962f316d43f4</sys_scope>
+        <sys_scope_delete display_value="">3a657c311238419f817d783a472665a1</sys_scope_delete>
+        <sys_update_name>sp_instance_231aed5e4711021040f2962f316d43af</sys_update_name>
+        <sys_update_version display_value="sp_instance_231aed5e4711021040f2962f316d43af">e31aed5e4711021040f2962f316d43b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 15:16:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

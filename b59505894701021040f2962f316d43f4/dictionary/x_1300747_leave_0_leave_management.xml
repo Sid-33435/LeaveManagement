@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="714641c94701021040f2962f316d43fc" extends="task" label="Leave_Management" max_length="40" name="x_1300747_leave_0_leave_management" type="collection">
+        <element label="Employee name" mandatory="true" max_length="32" name="employee_name" reference="sys_user" type="reference"/>
+        <element label="Employee number" mandatory="true" max_length="255" name="employee_number" type="integer"/>
+        <element label="Leave Approved" max_length="255" name="leave_approved" read_only="true" type="boolean"/>
+        <element label="Leave End Date" mandatory="true" max_length="255" name="leave_end_date" type="glide_date"/>
+        <element label="Leave Start Date" mandatory="true" max_length="255" name="leave_start_date" type="glide_date"/>
+        <element label="If Other Then Specify" max_length="40" name="short_descriptio" type="string"/>
+        <element choice="3" label="Urgency of Approval" mandatory="true" max_length="40" name="urgency_of_approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Casual Leave" sequence="0" value="Casual Leave"/>
+                <element inactive_on_update="false" label="Sick-Leave" sequence="1" value="Sick-Leave"/>
+                <element inactive_on_update="false" label="Maternity" sequence="2" value="Maternity"/>
+                <element inactive_on_update="false" label="Paternity" sequence="3" value="Paternity"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="Other"/>
+            </choice>
+        </element>
+    </element>
+</database>
